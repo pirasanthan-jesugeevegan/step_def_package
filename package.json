@@ -1,0 +1,19 @@
+{
+  "name": "step_def_packages",
+  "version": "1.0.0",
+  "description": "cypress step definition example",
+  "main": "mappings-importer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirasanthan-jesugeevegan/step_def_package.git"
+  },
+  "author": "Pirasanthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirasanthan-jesugeevegan/step_def_package/issues"
+  },
+  "homepage": "https://github.com/pirasanthan-jesugeevegan/step_def_package#readme"
+}
