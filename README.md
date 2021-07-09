@@ -2,4 +2,6 @@
 
 Cypress step definition
 
-# Insatallation step`npm i step_definitions`
+# Insatallation step`
+
+`npm i step_definitions`
